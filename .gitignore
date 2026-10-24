@@ -1,0 +1,10 @@
+*.gguf
+*.wav
+*.mp3
+*.log
+.env
+.env.*
+!.env.example
+models/
+build/
+llama.cpp/
